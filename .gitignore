@@ -1,0 +1,20 @@
+# IDE & Editor
+.idea/
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Claude Code configuration
+.claude/
+
+# Environment variables (if any at root level)
+.env
